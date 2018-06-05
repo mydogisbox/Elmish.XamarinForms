@@ -13,6 +13,7 @@ group wpfapp
 	nuget OpenTK
 	nuget OpenTK.GLControl
 	nuget System.ValueTuple
+	nuget System.Reactive
 
 # dependencies used when compiling and running the library and neutral parts of samples
 group neutral
